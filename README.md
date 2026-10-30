@@ -15,6 +15,14 @@
 | [ai-api-kit](https://github.com/KevanCode/ai-api-kit) | 大模型接口接入骨架：重试退避 / 熔断 / 转人工兜底，19 个测试 |
 | [repair-ticket-lowcode](https://github.com/KevanCode/repair-ticket-lowcode) | 设备报修工单的字段设计与演示数据，低代码落地用 |
 
+#### 更早的
+
+| 仓库 | 一句话 |
+|---|---|
+| [bookstores](https://github.com/KevanCode/bookstores) | 2017，Node + Express + Angular 的网上书店，前后端分离 |
+| [mymoviecat](https://github.com/KevanCode/mymoviecat) | 2017，Angular 电影资讯站，路由拆分与 JSONP 跨域取数 |
+| [warmAlbum](https://github.com/KevanCode/warmAlbum) | 2017，Express 相册应用，含上传、模型层与模板渲染 |
+
 #### 技术栈
 
 ```
