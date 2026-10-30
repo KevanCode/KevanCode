@@ -1,4 +1,4 @@
-### 张开放 · Kevan
+### Kevan
 
 13 年后端开发。.NET 是主线（ASP.NET MVC / Web API / EF·FreeSql），Java 微服务为辅（Spring Cloud Alibaba / Dubbo）。
 做过 9 年 B 端系统交付：搜索引擎营销平台、CRM/OA/HR 三合一、车主综合服务平台、团餐平台。
